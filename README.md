@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amey Joshi
+- Hi, I’m Amey Joshi
 - 👀 I’m interested in App Develpoment
 - 🌱 I’m currently learning Flutter App Development
 - 📫 How to reach me : amey.joshi@wishtreetech.com
