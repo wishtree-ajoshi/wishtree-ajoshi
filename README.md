@@ -1,6 +1,6 @@
 * Hi, I’m Amey Joshi *
-- 👀 I’m interested in App Develpoment
-- 🌱 I’m currently learning Flutter App Development
+- 👀 I’m interested in Mobile App Develpoment
+- 🌱 I’m currently working on Flutter for Mobile App Development
 - 📫 How to reach me : amey.joshi@wishtreetech.com
 
 <!---
